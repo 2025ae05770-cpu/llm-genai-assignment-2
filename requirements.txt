@@ -1,0 +1,7 @@
+transformers
+peft
+torch
+accelerate
+bitsandbytes
+jupyter
+pandas
